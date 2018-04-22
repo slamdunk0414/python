@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ed93bae-ce0a-40b9-abdc-783f3d56cae3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.字符串列表数组/3.字符串操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.字符串列表数组/3.字符串操作.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,65 +23,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="7.判断.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.逻辑循环/7.判断.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6.变量类型.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.python基础/6.变量类型.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8.循环.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.逻辑循环/8.循环.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="9.石头剪子布.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.逻辑循环/9.石头剪子布.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.字符串.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.字符串列表数组/1.字符串.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2.字符串切片.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.字符串列表数组/2.字符串切片.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="418">
               <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3.字符串操作.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3.字符串操作.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.字符串列表数组/3.字符串操作.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="880">
+              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.列表.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.字符串列表数组/4.列表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1034">
+              <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5.名片管理列表版.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.字符串列表数组/5.名片管理列表版.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="814">
+              <caret line="37" lean-forward="true" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6.字典.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.字符串列表数组/6.字典.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7.名片管理系统字典版本.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.字符串列表数组/7.名片管理系统字典版本.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8.字典的增删改查.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.字符串列表数组/8.字典的增删改查.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9.for循环中的else.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.字符串列表数组/9.for循环中的else.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10.append与extend的区别.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.字符串列表数组/10.append与extend的区别.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11.字典的常见操作.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.字符串列表数组/11.字典的常见操作.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -122,6 +150,14 @@
         <option value="$PROJECT_DIR$/3.字符串列表数组/1.字符串.py" />
         <option value="$PROJECT_DIR$/3.字符串列表数组/2.字符串切片.py" />
         <option value="$PROJECT_DIR$/3.字符串列表数组/3.字符串操作.py" />
+        <option value="$PROJECT_DIR$/3.字符串列表数组/4.列表.py" />
+        <option value="$PROJECT_DIR$/3.字符串列表数组/5.名片管理列表版.py" />
+        <option value="$PROJECT_DIR$/3.字符串列表数组/6.字典.py" />
+        <option value="$PROJECT_DIR$/3.字符串列表数组/7.名片管理系统字典版本.py" />
+        <option value="$PROJECT_DIR$/3.字符串列表数组/8.字典的增删改查.py" />
+        <option value="$PROJECT_DIR$/3.字符串列表数组/9.for循环中的else.py" />
+        <option value="$PROJECT_DIR$/3.字符串列表数组/10.append与extend的区别.py" />
+        <option value="$PROJECT_DIR$/3.字符串列表数组/11.字典的常见操作.py" />
       </list>
     </option>
   </component>
@@ -135,10 +171,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="486" />
-    <option name="y" value="187" />
-    <option name="width" value="1194" />
-    <option name="height" value="719" />
+    <option name="x" value="640" />
+    <option name="y" value="81" />
+    <option name="width" value="1203" />
+    <option name="height" value="806" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -148,7 +184,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,9 +200,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/zhangpeng/Documents/python相关/python/3.字符串列表数组/7.名片管理系统字典版本.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -197,8 +234,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3.字符串操作">
-    <configuration name="1.字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.11.字典的常见操作">
+    <configuration name="10.append与extend的区别" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,13 +247,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.字符串列表数组/1.字符串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.字符串列表数组/10.append与extend的区别.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="2.字符串切片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11.字典的常见操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,13 +265,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.字符串列表数组/2.字符串切片.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.字符串列表数组/11.字典的常见操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="3.字符串操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7.名片管理系统字典版本" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,13 +283,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.字符串列表数组/3.字符串操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.字符串列表数组/7.名片管理系统字典版本.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="8.循环" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8.字典的增删改查" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,17 +297,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.逻辑循环" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.字符串列表数组" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.逻辑循环/8.循环.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.字符串列表数组/8.字典的增删改查.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="9.石头剪子布" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9.for循环中的else" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,30 +315,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.逻辑循环" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.字符串列表数组" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.逻辑循环/9.石头剪子布.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.字符串列表数组/9.for循环中的else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.8.循环" />
-      <item itemvalue="Python.9.石头剪子布" />
-      <item itemvalue="Python.1.字符串" />
-      <item itemvalue="Python.2.字符串切片" />
-      <item itemvalue="Python.3.字符串操作" />
+      <item itemvalue="Python.7.名片管理系统字典版本" />
+      <item itemvalue="Python.8.字典的增删改查" />
+      <item itemvalue="Python.9.for循环中的else" />
+      <item itemvalue="Python.10.append与extend的区别" />
+      <item itemvalue="Python.11.字典的常见操作" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3.字符串操作" />
-        <item itemvalue="Python.2.字符串切片" />
-        <item itemvalue="Python.1.字符串" />
-        <item itemvalue="Python.9.石头剪子布" />
-        <item itemvalue="Python.8.循环" />
+        <item itemvalue="Python.11.字典的常见操作" />
+        <item itemvalue="Python.10.append与extend的区别" />
+        <item itemvalue="Python.9.for循环中的else" />
+        <item itemvalue="Python.8.字典的增删改查" />
+        <item itemvalue="Python.7.名片管理系统字典版本" />
       </list>
     </recent_temporary>
   </component>
@@ -319,13 +356,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="486" y="187" width="1194" height="719" extended-state="0" />
+    <frame x="640" y="81" width="1203" height="806" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2160804" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21446384" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29612404" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3784153" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -351,7 +388,103 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/2.字符串切片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/3.字符串操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/4.列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/5.名片管理列表版.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" lean-forward="true" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/6.字典.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/7.名片管理系统字典版本.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.逻辑循环/7.判断.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.python基础/6.变量类型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.逻辑循环/8.循环.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.逻辑循环/9.石头剪子布.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/1.字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/2.字符串切片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/3.字符串操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2.逻辑循环/7.判断.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -447,28 +580,84 @@
     <entry file="file://$PROJECT_DIR$/2.逻辑循环/9.石头剪子布.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.字符串列表数组/1.字符串.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="638">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.字符串列表数组/2.字符串切片.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="418">
           <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.字符串列表数组/3.字符串操作.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="880">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/4.列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/6.字典.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/5.名片管理列表版.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" lean-forward="true" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/7.名片管理系统字典版本.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/8.字典的增删改查.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/9.for循环中的else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/10.append与extend的区别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.字符串列表数组/11.字典的常见操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
         </state>
       </provider>
     </entry>

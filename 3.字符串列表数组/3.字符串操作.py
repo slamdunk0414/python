@@ -33,3 +33,17 @@ print(a)
 b = str.endswith('123')
 
 print(b)
+
+# 小写
+str2 = str.lower()
+print(str2)
+
+# 大写
+str2 = str.upper()
+print(str2)
+
+# strip 删除空白字符 也可以用lstrip rstrip删除左边或右边的空白字符
+
+str2 = '    123    '.strip()
+print('-------')
+print(str2)
