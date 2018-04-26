@@ -22,15 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="11.字典的常见操作.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.字符串列表数组/11.字典的常见操作.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="1.元祖.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4.元祖函数/1.元祖.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -62,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/4.元祖函数/4.带有参数的函数.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -71,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/4.元祖函数/5.函数的嵌套调用.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -89,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/4.元祖函数/7.函数文档说明.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -103,11 +94,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9.不定长参数.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="9.不定长参数.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4.元祖函数/9.不定长参数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+            <state relative-caret-position="553">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10.可变不可变类型.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.元祖函数/10.可变不可变类型.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -170,6 +170,7 @@
         <option value="$PROJECT_DIR$/4.元祖函数/6.全局变量.py" />
         <option value="$PROJECT_DIR$/4.元祖函数/8.缺省参数.py" />
         <option value="$PROJECT_DIR$/4.元祖函数/9.不定长参数.py" />
+        <option value="$PROJECT_DIR$/4.元祖函数/10.可变不可变类型.py" />
       </list>
     </option>
   </component>
@@ -183,8 +184,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="444" />
-    <option name="y" value="63" />
+    <option name="x" value="738" />
+    <option name="y" value="61" />
     <option name="width" value="1203" />
     <option name="height" value="806" />
   </component>
@@ -196,6 +197,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,7 +214,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,8 +247,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9.不定长参数">
-    <configuration name="4.带有参数的函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10.可变不可变类型">
+    <configuration name="10.可变不可变类型" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,7 +260,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.元祖函数/4.带有参数的函数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.元祖函数/10.可变不可变类型.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,19 +339,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.4.带有参数的函数" />
       <item itemvalue="Python.5.函数的嵌套调用" />
       <item itemvalue="Python.6.全局变量" />
       <item itemvalue="Python.8.缺省参数" />
       <item itemvalue="Python.9.不定长参数" />
+      <item itemvalue="Python.10.可变不可变类型" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10.可变不可变类型" />
         <item itemvalue="Python.9.不定长参数" />
         <item itemvalue="Python.8.缺省参数" />
         <item itemvalue="Python.6.全局变量" />
         <item itemvalue="Python.5.函数的嵌套调用" />
-        <item itemvalue="Python.4.带有参数的函数" />
       </list>
     </recent_temporary>
   </component>
@@ -368,19 +369,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="444" y="63" width="1203" height="806" extended-state="0" />
+    <frame x="738" y="61" width="1203" height="806" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21446384" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2650273" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2650273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
@@ -406,13 +407,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2.逻辑循环/9.石头剪子布.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.字符串列表数组/1.字符串.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
@@ -634,21 +628,21 @@
     <entry file="file://$PROJECT_DIR$/4.元祖函数/5.函数的嵌套调用.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4.元祖函数/4.带有参数的函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4.元祖函数/7.函数文档说明.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -668,8 +662,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4.元祖函数/9.不定长参数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        <state relative-caret-position="553">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.元祖函数/10.可变不可变类型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
