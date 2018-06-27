@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>表单</title>
+</head>
+<body>
+
+    <form action="www.baidu.com" method="post">
+
+        <div>
+            <label>用户名：</label>
+            <input type="text" id="name" name="name" >
+        </div>
+        <div>
+            <label>密码：</label>
+            <input type="password" id="pwd" name="pwd">
+        </div>
+        <div>
+            <label>性别：</label>
+            <input type="radio" name="gender" value="0"> 男
+            <input type="radio" name="gender" value="1"> 女
+        </div>
+
+
+        <div>
+            <label>性别：</label>
+            <input type="checkbox" name="hobby"> game
+            <input type="checkbox" name="hobby"> run
+            <input type="checkbox" name="hobby"> sleep
+        </div>
+
+
+        <div>
+
+            <label>图片:</label>
+            <input type="file" id="fileId" name="image" value="请上传图片" />
+
+        </div>
+
+        <div>
+
+            <label>描述:</label>
+            <textarea></textarea>
+        </div>
+
+        <div>
+            <label>籍贯：</label>
+
+            <select id="site">
+
+                <option>bj</option>
+                <option>sh</option>
+                <option>hz</option>
+                <option>hh</option>
+                <option>qw</option>
+
+            </select>
+
+        </div>
+
+
+        <input type="submit" value="提交">
+        <input type="reset" value="重置">
+
+    </form>
+
+</body>
+</html>

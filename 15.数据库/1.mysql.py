@@ -31,7 +31,7 @@ create table 表名(列及类型);
 如：
 create table students(
 id int auto_increment primary key,
-sname varchar(10) not null
+name varchar(10) not null
 );
 修改表
 
